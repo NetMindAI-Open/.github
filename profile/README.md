@@ -37,7 +37,7 @@ Together, let’s build an AI-powered future where agents augment human creativi
 ---
 
 
-More projects available on our [repositories page](https://github.com/NetMindAI-Open).
+More projects available on our [repositories page](https://github.com/NetMindAI-Open/repositories).
 
 ---
 
@@ -87,7 +87,7 @@ Net the future, power the AI.
 ---
 
 
-查看更多项目请访问我们的 [仓库页面](https://github.com/NetMindAI-Open)。
+查看更多项目请访问我们的 [仓库页面](https://github.com/NetMindAI-Open/repositories)。
 
 ---
 

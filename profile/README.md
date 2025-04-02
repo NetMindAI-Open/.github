@@ -6,14 +6,14 @@ English | 中文
 
 ---
 
-🌟 **Hello AI enthusiasts!**  
+🔗 **Hello AI enthusiasts!**  
 Welcome to **NetMindAI-Open**, the open-source community driven by [NetMind.AI](https://netmind.ai), where innovation meets infrastructure. We bring together developers, researchers, and creators to build the future of AI—powered by real compute, real models, and real autonomy.
 
 From large-scale GPU infrastructure and model inference frameworks to cutting-edge agent systems, this is your home base for practical, scalable, and open AI.
 
 ---
 
-📘 **Our Mission**  
+🧭 **Our Mission**  
 At NetMindAI, we believe the future of AI lies in open collaboration and real-world deployment. Our mission is to:
 
 - 🚀 Empower AI development through access to high-performance GPU networks and scalable inference tools  
@@ -25,7 +25,7 @@ We don't just talk about the future—we deploy it. One repo at a time.
 
 ---
 
-🙌 **Join Us**  
+🧑‍🤝‍🧑 **Join Us**  
 Whether you're a machine learning engineer, an AI researcher, a student, or an open-source enthusiast—**we welcome your participation**.
 
 - 🤝 Explore and contribute to our growing collection of public repositories
@@ -56,14 +56,14 @@ Net the future, power the AI.
 
 ---
 
-🌟 **你好，AI 爱好者们！**  
+🔗 **你好，AI 爱好者们！**  
 欢迎来到 **NetMindAI-Open**，这是由 [NetMind.AI](https://netmind.ai) 发起的开源社区，一个融合创新与基础设施的协作平台。我们汇聚开发者、研究者与创作者，共同构建 AI 的未来——依托真实的算力、真实的模型、和真正自主的智能体。
 
 从大规模 GPU 网络、模型推理框架，到前沿的 Agent 系统，这里是你开发实用、可扩展、可落地 AI 的理想基地。
 
 ---
 
-📘 **我们的使命**  
+🧭 **我们的使命**  
 我们相信，AI 的未来属于开放协作与实际部署。NetMindAI 的开源使命是：
 
 - 🚀 通过高性能 GPU 网络与可扩展推理工具，赋能 AI 开发  
@@ -75,7 +75,7 @@ Net the future, power the AI.
 
 ---
 
-🙌 **加入我们**  
+🧑‍🤝‍🧑 **加入我们**  
 无论你是机器学习工程师、AI 研究员、学生，还是热爱开源的开发者——**我们都诚邀你的参与**。
 
 - 🤝 访问并参与我们持续增长的开源项目库  

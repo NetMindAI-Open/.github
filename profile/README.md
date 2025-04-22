@@ -2,8 +2,6 @@
 Net the future, power the AI.  
 Empowering AI innovation through GPU networks, inference apis, and intelligent agents.
 
-English 
-
 ---
 
 🔗 **Welcome AI Innovators!**
